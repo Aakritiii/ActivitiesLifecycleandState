@@ -1,0 +1,2 @@
+# ActivitiesLifecycleandState
+![](ActivitiesLifecycle.PNG)
