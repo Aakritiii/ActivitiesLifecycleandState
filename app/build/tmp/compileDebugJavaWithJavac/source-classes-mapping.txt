@@ -1,0 +1,4 @@
+MainActivity.java
+ me.mahakagg.managingstatehw.MainActivity
+me/mahakagg/managingstatehw/BuildConfig.java
+ me.mahakagg.managingstatehw.BuildConfig
